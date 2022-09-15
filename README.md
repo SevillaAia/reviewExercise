@@ -9,42 +9,93 @@ Tip do not work off the main/master branch
 ​
 TiffanysBranch
 ## What is your favorite holiday destination?
-*Tiffany* - Florida was my favorite holiday destination.
+*Nicolae* - Nicolae-Cyprus.
+### *Aia* - **Egypt**
+*Tiffany* - Florida was my favorite holiday destination. <hr>
+
 ## What should your dreamjob be like?
-*Tiffany* - An easy-going team environment that believes that working can also be fun.
+*Nicolae* - web.dev.
+### *Aia* - **Criminologist**
+*Tiffany* - An easy-going team environment that believes that working can also be fun. <hr>
 ## What really makes you angry?
-*Tiffany* - When people purposefully don't try to understand a person. Or stay completely closed minded to any means of compromise.
+*Nicolae* - when I cannot find my keys.
+### *Aia* - **people who are provoking**
+*Tiffany* - When people purposefully don't try to understand a person. Or stay completely closed minded to any means of compromise. <hr>
 ## Who is your hero?
-*Tiffany* - My mother is/was my hero.
+*Nicolae* - Hulk.
+### *Aia* - **My Mom**
+*Tiffany* - My mother is/was my hero. <hr>
 ## If you could live anywhere, where would it be?
-*Tiffany* - Anywhere warm with my family/friends/and a beach wouldn't hurt.
+*Nicolae* - in country side.
+### *Aia* - **Ireland**
+*Tiffany* - Anywhere warm with my family/friends/and a beach wouldn't hurt. <hr>
 ## What did you want to be when you were small?
-*Tiffany* - A Singer.
+*Nicolae* - police man.
+### *Aia* - **Police woman**
+*Tiffany* - A Singer. <hr>
 ## Would you rather ride a bike, ride a horse, or drive a car?
-*Tiffany* - I'd rather ride a horse.
+*Nicolae* - drive a car.
+### *Aia* - **Drive a Car**
+*Tiffany* - I'd rather ride a horse. <hr>
 ## what is your favorite dish? (list the main ingredients)
-*Tiffany* - Steak, with the main ingredient being....steak hehe.
+*Nicolae* - ice cream.
+### *Aia* - **Adobo** 
+. Soy Sauce 
+
+. Vinegar
+
+
+. LOTS of Garlic
+
+
+. Pepper
+
+
+. Basil Leaf <br>
+*Tiffany* - Steak, with the main ingredient being....steak hehe. <hr>
 ## What is your favorite color?
-*Tiffany* - Anything neon with gray.
+*Nicolae* - green.
+### *Aia* - **Royale Blue**
+*Tiffany* - Anything neon with gray. <hr>
 ## What is your fav. videogame?
-*Tiffany* Final Fantasy 14 Online.
+*Nicolae* - call of duty.
+### *Aia* - **Resident Evil**
+*Tiffany* Final Fantasy 14 Online. <hr>
 ## Does it bother you to be confronted with unexpected situations?
-*Tiffany* - No, I like challenges, and I have realized that every day life comes with unexpected situations, and dealing with them is only half of the battle.
+*Nicolae* - life go on...
+### *Aia* - **No**
+*Tiffany* - No, I like challenges, and I have realized that every day life comes with unexpected situations, and dealing with them is only half of the battle. <hr>
 ## In the evening, would you rather play a game, visit a friend, watch a movie, or read?
-*Tiffany* - Typically play a game with a friend, or watch a movie with my family/friends.
+*Nicolae* - visit a friend. <hr>
+### *Aia* - **Depends on my mood**
+*Tiffany* - Typically play a game with a friend, or watch a movie with my family/friends.<hr>
 ## How would your friends describe you?
-*Tiffany* - Energetic, outgoing, helpful, and nice. (At least I hope they'd say these things.)
+*Nicolae* - patient
+### *Aia* - **Jolly**
+*Tiffany* - Energetic, outgoing, helpful, and nice. (At least I hope they'd say these things.)<hr>
 ## What is the best gift you have been given?
-*Tiffany* - Friends and Family, full stop.
+*Nicolae* - love.
+### *Aia* - **A Phillips Face Cleaner with several functions**
+*Tiffany* - Friends and Family, full stop. <hr>
 ## Name 1 thing you could not do without (necessities aside)
-*Tiffany* - Makeup...100%.
+*Nicolae* - watch on tv
+### *Aia* - **Cellphone**
+*Tiffany* - Makeup...100%. <hr>
 ## What is the worst gift you have received?
-*Tiffany* - I don't really see the money value of an item, I think that all gifts 'good' or 'bad' are equally valuable, because it was the idea that went into the gift that is important. Unless you give me a piece of trash, and say Merry Birthmas!!...yes...this is the *worst*
+*Nicolae* - a stone.
+### *Aia* - **cheap perfume**
+*Tiffany* - I don't really see the money value of an item, I think that all gifts 'good' or 'bad' are equally valuable, because it was the idea that went into the gift that is important. Unless you give me a piece of trash, and say Merry Birthmas!!...yes...this is the *worst* <hr>
 ## If you were a super-hero, what powers would you have?
-*Tiffany* - Immortality muahahaha, I don't know.
+*Nicolae* - all..:)
+### *Aia* - **invisibility**
+*Tiffany* - Immortality muahahaha, I don't know. <hr>
 ## What's the most unusual thing you've ever eaten?
-*Tiffany* - Ants...I've eaten ants...
+*Nicolae* - snake.
+### *Aia* - **crocodile**
+*Tiffany* - Ants...I've eaten ants... <hr>
 ## Is your glass half full or half empty?
+*Nicolae* - depends
+### *Aia* - **half full**
 *Tiffany* - The optimist will say that the glass is half-full. <br>
 The pessimist will say that the glass is half-empty.<br>
 The engineer will say that the glass is 2 times bigger than it needs to be.<br>
@@ -52,99 +103,8 @@ The politician will say that the glass would be more empty if the opposition wer
 The project manager will say that the glass is twice as big as it needs to be. <br>
 The fanatic will say that the glass is full, even though it isn't. <br>
 The IT support person will say that you should try emptying the glass and then refilling it. <br>
-Anyone else?
+Anyone else? <hr>
 ## If you had a warning label, what would yours say?
-*Tiffany* - Warning! Requires adult supervision.
-=======
-=======
-Nico_branch
-## What is your favorite holiday destination?
-Nicolae-Cyprus.
-## What should your dreamjob be like?
-Nicolae-web.dev.
-## What really makes you angry?
-Nicolae-when i cannot find my keys.
-## Who is your hero?
-Nicolae-Hulk  . 
-## If you could live anywhere, where would it be?
-Nicolae-in country side.
-## What did you want to be when you were small?
-Nicolae-police man.
-## Would you rather ride a bike, ride a horse, or drive a car?
-Nicolae-drive a car.
-## what is your favorite dish? (list the main ingredients)
-Nicolae-ice cream.
-## What is your favorite color?
-Nicolae-green.
-## What is your fav. videogame?
-Nicolae-call of duty.
-## Does it bother you to be confronted with unexpected situations?
-Nicolae-life go on...
-## In the evening, would you rather play a game, visit a friend, watch a movie, or read?
-Nicolae-visit a friend.
-## How would your friends describe you?
-Nicolae-pacient
-## What is the best gift you have been given?
-Nicolae-love.
-## Name 1 thing you could not do without (necessities aside)
-Nicolae-watch on tv
-## What is the worst gift you have received?
-Nicolae-a stone.
-## If you were a super-hero, what powers would you have?
-Nicolae-all..:)
-## What's the most unusual thing you've ever eaten?
-Nicolae-snake.
-## Is your glass half full or half empty?
-Nicolae-depends
-## If you had a warning label, what would yours say?
-Nicolae-wpss.
-
-=======
-
-
-## What is your favorite holiday destination? 
-# **Egypt**
-## What should your dreamjob be like? 
-# **Criminologist**
-## What really makes you angry? 
-# **people who are provoking**
-## Who is your hero? 
-# **My Mom**
-## If you could live anywhere, where would it be?
-# **Ireland**
-## What did you want to be when you were small? 
-# **Police**
-## Would you rather ride a bike, ride a horse, or drive a car?
-# **Drive a Car**
-## what is your favorite dish? (list the main ingredients) 
-# **Adobo** 
-. Soy Sauce
-. Vinegar
-. LOTS of Garlic
-. Pepper
-. Basil Leaf
-## What is your favorite color?
-# **Royale Blue**
-## What is your fav. videogame?
-# **Resident Evil**
-## Does it bother you to be confronted with unexpected situations?
-# **No**
-## In the evening, would you rather play a game, visit a friend, watch a movie, or read?
-# **Depends on my mood**
-## How would your friends describe you?
-# **Jolly**
-## What is the best gift you have been given?
-# **A Phillips Face Cleaner with several functions**
-## Name 1 thing you could not do without (necessities aside)
-# **Cellphone**
-## What is the worst gift you have received?
-# **cheap perfume**
-## If you were a super-hero, what powers would you have?
-# **invisibility**
-## What's the most unusual thing you've ever eaten?
-# **crocodile**
-## Is your glass half full or half empty?
-# **half full**
-## If you had a warning label, what would yours say?
-# **Keep distance when I'm Hungry**
-
+*Nicolae* - wpss.
+### *Aia* - **Keep distance when I'm Hungry**
+*Tiffany* - Warning! Requires adult supervision. <hr>
